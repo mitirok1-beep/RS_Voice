@@ -1,7 +1,7 @@
 {
-  "version_code": 20,
-  "version_name": "2.9",
-  "sha256": "90f3e97ffca3804512b53ae299ef077ebbf4c27baf20fb5bd857d56b32259c4c",
+  "version_code": 21,
+  "version_name": "3.0",
+  "sha256": "806d38aba1c79bab3dee2098c533d213d8abbcec5480b0f5557cae1bc08aea04",
   "parts": [
     "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/RS_Voice.apk.aa",
     "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/RS_Voice.apk.ab",
