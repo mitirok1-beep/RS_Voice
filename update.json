@@ -1,10 +1,10 @@
 {
-  "version_code": 38,
-  "version_name": "4.7",
-  "sha256": "979df36700e6f3e3aaf46ae55278b9faf80e17d7222e002e13776d83733002fc",
+  "version_code": 39,
+  "version_name": "4.8",
+  "sha256": "8a7b649473f5b8833ef63fffd75583e85cf160431295c7a771bda5f0c3bd2953",
   "parts": [
-    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/v38/RS_Voice.apk.aa",
-    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/v38/RS_Voice.apk.ab",
-    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/v38/RS_Voice.apk.ac"
+    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/v39/RS_Voice.apk.aa",
+    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/v39/RS_Voice.apk.ab",
+    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/v39/RS_Voice.apk.ac"
   ]
 }
