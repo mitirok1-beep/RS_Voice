@@ -1,8 +1,8 @@
 {
-  "updated": 1790003668,
+  "updated": 1790005898,
   "cars": {
     "1a1c676a46c4c01c": {
-      "state": "active",
+      "state": "revoked",
       "expires": 1821106623,
       "tier": "plus"
     },
