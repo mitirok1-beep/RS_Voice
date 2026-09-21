@@ -1,10 +1,15 @@
 {
-  "updated": 1789990513,
+  "updated": 1789990579,
   "cars": {
-    "fd0a2c1801121564": {
+    "a1baa42e3f9e9b0c": {
       "state": "active",
-      "expires": 1797766510,
-      "tier": "start"
+      "expires": 1821447850,
+      "tier": "manual"
+    },
+    "7f964ca14c58ea73": {
+      "state": "active",
+      "expires": 1821445798,
+      "tier": "manual"
     }
   }
 }
