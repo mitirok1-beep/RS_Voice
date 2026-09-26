@@ -1,8 +1,8 @@
 {
-  "version_code": 45,
-  "version_name": "5.3a",
-  "sha256": "55fe271c4287ff872704909fffe4e1da977ca97ec73afd67f63f8c28fb5e8656",
+  "version_code": 46,
+  "version_name": "5.3b",
+  "sha256": "277fd429f4c8519fae690b4bcbebbb83888572799d5e79653969c3e441f9c063",
   "parts": [
-    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/aion/v45/RS_Voice.apk.aa",    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/aion/v45/RS_Voice.apk.ab",    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/aion/v45/RS_Voice.apk.ac"
+    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/aion/v46/RS_Voice.apk.aa",    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/aion/v46/RS_Voice.apk.ab",    "https://raw.githubusercontent.com/mitirok1-beep/RS_Voice/main/apk/aion/v46/RS_Voice.apk.ac"
   ]
 }
